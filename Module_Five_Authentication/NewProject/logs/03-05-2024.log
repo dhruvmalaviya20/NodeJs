@@ -1,0 +1,72 @@
+[-]03-05-2024 11:46:39 Server started on port 3000
+[*]03-05-2024 11:46:47 Incoming Request : GET /dashboard
+[*]03-05-2024 11:46:48 Incoming Request : GET /movies/
+[*]03-05-2024 11:47:03 Incoming Request : GET /
+[*]03-05-2024 11:47:07 Incoming Request : GET /home
+[*]03-05-2024 11:47:09 Incoming Request : GET /signup
+[*]03-05-2024 11:47:12 Incoming Request : GET /login
+[*]03-05-2024 11:47:24 Incoming Request : POST /user/token
+[*]03-05-2024 11:48:31 Incoming Request : GET /
+[*]03-05-2024 11:48:34 Incoming Request : GET /login
+[*]03-05-2024 11:48:45 Incoming Request : POST /user/token
+[*]03-05-2024 11:48:47 Incoming Request : POST /user/token
+[-]03-05-2024 11:49:26 Server started on port 3000
+[*]03-05-2024 11:49:31 Incoming Request : POST /user/token
+[*]03-05-2024 11:49:33 Incoming Request : GET /login
+[*]03-05-2024 11:49:41 Incoming Request : POST /user/token
+[*]03-05-2024 11:49:43 Incoming Request : POST /user/token
+[*]03-05-2024 11:49:51 Incoming Request : POST /user/token
+[*]03-05-2024 11:50:10 Incoming Request : POST /user/token
+[-]03-05-2024 11:50:28 Server started on port 3000
+[*]03-05-2024 11:50:28 Incoming Request : GET /login
+[*]03-05-2024 11:50:36 Incoming Request : POST /user/token
+[*]03-05-2024 11:50:41 Incoming Request : POST /user/token
+[*]03-05-2024 11:51:42 Incoming Request : GET /
+[*]03-05-2024 11:51:44 Incoming Request : GET /login
+[*]03-05-2024 11:51:50 Incoming Request : POST /user/token
+[*]03-05-2024 11:51:52 Incoming Request : GET /dashboard
+[*]03-05-2024 11:51:53 Incoming Request : GET /movies/
+[+]03-05-2024 11:51:53 Mongo DB Connected...
+[+]03-05-2024 11:51:53 Data Was Served...
+[!]03-05-2024 11:51:53 Mongo DB Disconnected...
+[*]03-05-2024 11:52:01 Incoming Request : GET /dashboard
+[*]03-05-2024 11:52:01 Incoming Request : GET /movies/
+[+]03-05-2024 11:52:01 Mongo DB Connected...
+[+]03-05-2024 11:52:01 Data Was Served...
+[!]03-05-2024 11:52:01 Mongo DB Disconnected...
+[*]03-05-2024 11:52:05 Incoming Request : GET /dashboard
+[*]03-05-2024 11:52:05 Incoming Request : GET /movies/
+[+]03-05-2024 11:52:05 Mongo DB Connected...
+[+]03-05-2024 11:52:05 Data Was Served...
+[!]03-05-2024 11:52:05 Mongo DB Disconnected...
+[*]03-05-2024 11:52:18 Incoming Request : GET /dashboard
+[*]03-05-2024 11:52:19 Incoming Request : GET /movies/
+[+]03-05-2024 11:52:19 Mongo DB Connected...
+[+]03-05-2024 11:52:19 Data Was Served...
+[!]03-05-2024 11:52:19 Mongo DB Disconnected...
+[*]03-05-2024 11:52:20 Incoming Request : GET /dashboard
+[*]03-05-2024 11:52:20 Incoming Request : GET /movies/
+[+]03-05-2024 11:52:20 Mongo DB Connected...
+[+]03-05-2024 11:52:20 Data Was Served...
+[!]03-05-2024 11:52:20 Mongo DB Disconnected...
+[*]03-05-2024 11:52:26 Incoming Request : GET /
+[*]03-05-2024 11:52:28 Incoming Request : GET /login
+[*]03-05-2024 11:58:46 Incoming Request : POST /user/token
+[*]03-05-2024 11:58:50 Incoming Request : POST /user/token
+[*]03-05-2024 11:58:58 Incoming Request : GET /
+[*]03-05-2024 11:59:01 Incoming Request : GET /login
+[*]03-05-2024 11:59:31 Incoming Request : POST /user/token
+[*]03-05-2024 11:59:34 Incoming Request : POST /user/token
+[*]03-05-2024 11:59:34 Incoming Request : POST /user/token
+[*]03-05-2024 11:59:35 Incoming Request : POST /user/token
+[*]03-05-2024 11:59:35 Incoming Request : POST /user/token
+[*]03-05-2024 11:59:35 Incoming Request : POST /user/token
+[*]03-05-2024 12:00:55 Incoming Request : GET /login
+[*]03-05-2024 12:01:03 Incoming Request : POST /user/token
+[*]03-05-2024 12:01:05 Incoming Request : GET /dashboard
+[*]03-05-2024 12:01:05 Incoming Request : GET /movies/
+[+]03-05-2024 12:01:05 Mongo DB Connected...
+[+]03-05-2024 12:01:05 Data Was Served...
+[!]03-05-2024 12:01:06 Mongo DB Disconnected...
+[-]03-05-2024 12:04:13 Server started on port 3000
+[-]03-05-2024 12:04:24 Server started on port 3000

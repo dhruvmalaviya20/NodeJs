@@ -1,0 +1,21 @@
+doctype html
+html(lang="en")
+    head
+        include common/bootstrap.pug
+        title Document
+    body
+        .card.w-25.my-4.p-4.mx-auto
+            img.w-25.d-block.mx-auto.mb-3(src="img/profile.png", alt="")
+            h2.text-center Login Form
+            .card-body 
+                .form-floating.mb-3
+                    input.form-control(type="email" id="ETX_EMAIL" placeholder="name@example.com")
+                    label(for="ETX_EMAIL") Email address
+
+                .form-floating.mb-3
+                    input.form-control(type="current-password" id="ETX_PASSWORD" placeholder="Password")
+                    label(for="ETX_PASSWORD") Password
+
+                button(id="BTN_LOGIN").btn.btn-primary.d-block.mx-auto.px-5.py-2 Primary
+
+        script(src="js/index.js")
