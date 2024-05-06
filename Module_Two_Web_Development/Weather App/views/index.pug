@@ -1,0 +1,11 @@
+doctype html
+html(lang="en")
+  head
+    title Weather App
+  body
+    h1 Weather App
+    form(action="/weather" method="get")
+      label(for="city") Enter City:
+      input(type="text" name="city")
+      button(type="submit") Get Weather
+
