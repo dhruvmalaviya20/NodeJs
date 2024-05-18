@@ -1,0 +1,13 @@
+doctype html
+html(lang="en")
+    head
+
+        include Common/Bootstrap.pug
+        title Document
+    body
+        .container
+            nav.navbar.navbar-light.bg-light
+            img.w-100(src="Image/welcome-image.png", alt="")
+            form.form-inline
+                a.btn.btn-primary.m-3(href="/login" role="button") Login
+                a.btn.btn-danger.m-3(href="/Signup" role="button") SignUp
